@@ -1,8 +1,10 @@
-# Hi, I'm Alok Dubey 👋
+<div align="center">
+
+<h1><b>Hi, I'm Alok Dubey 👋</b></h1>
 
 <p align="left">
   <a href="https://github.com/AlokDubey25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&random=false&width=600&lines=AI+%2F+ML+Engineer;Quantitative+Finance+Enthusiast;Building+'The+Sentinel'" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&random=false&width=600&lines=AI+%2F+ML+Engineer;Quantitative+Finance+Enthusiast;Building+'The+Systems'" alt="Typing SVG" />
   </a>
 </p>
 
@@ -50,8 +52,7 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlokDubey25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlokDubey25&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlokDubey25&theme=tokyonight&margin-w=15&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
