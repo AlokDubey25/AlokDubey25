@@ -1,12 +1,12 @@
 <div align="center">
-
 <h1><b>Hi, I'm Alok Dubey 👋</b></h1>
+</div>
 
-<p align="left">
+<div1 align="left">
   <a href="https://github.com/AlokDubey25">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&random=false&width=600&lines=AI+%2F+ML+Engineer;Quantitative+Finance+Enthusiast;Building+'The+Systems'" alt="Typing SVG" />
   </a>
-</p>
+</div1>
 
 ---
 
