@@ -56,13 +56,15 @@
   <img src="https://github-readme-stats-two-nu.vercel.app/api?username=AlokDubey25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
 </p>
 
+
 ---
 
 <p align="center">
   <a href="mailto:just25alok@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-just25alok%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&maxAge=3600" alt="Gmail" height="40px"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alok-dubey-287000370" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alok%20Dubey-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px"/>
   </a>
 </p>
