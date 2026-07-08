@@ -53,8 +53,7 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlokDubey25&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=AlokDubey25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=AlokDubey25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
 </p>
 
 ---
