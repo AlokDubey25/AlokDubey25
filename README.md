@@ -18,7 +18,7 @@
 </p>
 
 * 🔭 **Current Focus:** An advanced market manipulation and anomaly detector(vigil-node).
-* 🌱 **Deep Dive:** Actively mastering quantitative trading strategies and computational financial modeling.
+* 🌱 **Deep Dive:** Actively mastering Agentic AI models and computational financial modeling.
 * 🤝 **Collaboration:** Looking to sync up on deep learning, multi-agent systems, and learning applications.
 * 🎓 **Academic Path:** Pursuing an Integrated BS-MS in Mathematics at SVNIT.
 
